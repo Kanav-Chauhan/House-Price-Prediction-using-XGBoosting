@@ -39,7 +39,7 @@ Using real-world housing data, the app allows you to:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/Kanav-Chauhan/House-Price-Prediction-using-XGBoosting.git
    cd house-price-prediction
    ```
 
@@ -63,21 +63,6 @@ Using real-world housing data, the app allows you to:
    ```
 
 
-
----
-
-## 📂 Project Structure
-
-```
-house-price-prediction/
-│
-├── app.py                 # Streamlit app code
-├── model.pkl              # Trained XGBoost pipeline
-├── requirements.txt       # Dependencies
-├── README.md              # Project documentation
-└── data/                  # Dataset (optional if loading from sklearn)
-```
-
 ---
 
 ## 📈 Model Details
@@ -98,4 +83,5 @@ The model is wrapped in a **Scikit-learn pipeline** with preprocessing steps for
 - Deploy online (Streamlit Cloud / Heroku / AWS)
 
 ---
+## Made with ❤️ by Kanav Chauhan
 
