@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction using XGBoost - [Click for Live Demo](https://kanav-house-price.streamlit.app/)
+# 🏠 House Price Prediction using XGBoost - [Click for Live Demo](https://kanav-house-price-prediction.streamlit.app/)
 
 This project is a **machine learning web app** built with **Streamlit** that predicts **California house prices** using the **California Housing Dataset** and an **XGBoost Regressor** model.
 
